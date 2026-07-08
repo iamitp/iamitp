@@ -11,6 +11,7 @@ I am not a career software engineer. I am a self-taught builder who uses Python,
 - [amitpatnaik.com](https://amitpatnaik.com) - portfolio of AI systems, public intelligence tools, explainers, and case studies.
 - [Sanjaya](https://sanjaya.amitpatnaik.com) - Indian oil and gas intelligence surface for fuel prices, Brent/FX drivers, infrastructure, companies, and crude prediction.
 - [Sanket](https://amitpatnaik.com/products/sanket/) - passive cyber posture and public-source risk checks for oil and gas digital infrastructure.
+- [Peeku Presence Coach](https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12) / [Peeku for Mac](https://peeku.app/) - private Mac presence app for eye breaks, walk reminders, and local presence signals; the full walk-away lock ships outside the App Store because of sandbox limits.
 - Codex/Claude operating model - a practical multi-model workflow for planning, implementation, review, verification, and shipping.
 
 ## Current Interests
