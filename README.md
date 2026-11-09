@@ -1,26 +1,21 @@
 # Amit Patnaik
 
-Ministerial Policy Advisor | AI Systems Builder
+I'm a communications professional in New Delhi who builds independent software using AI-assisted development.
 
-I work at the junction of public-sector energy, institutional briefing, and practical AI systems. My current focus is turning messy public and organisational signals into decision surfaces that senior people can actually use.
+My background spans petroleum-sector communications, human resources and government-facing work. Food writing is another longstanding interest. My [website](https://amitpatnaik.com/about/) brings together that background, writing and selected references.
 
-I am not a career software engineer. I am a self-taught builder who uses Python, TypeScript, APIs, MCPs, browser automation, and AI coding tools to make working systems, test workflows, and understand what is real enough to deploy.
+## Independent software
 
-## Selected Work
+- **[Peeku](https://amitpatnaik.com/products/peeku/):** desk-break reminders and optional locking for Mac and Windows; features differ by platform.
+- **[FuelSaathi](https://amitpatnaik.com/products/fuelsaathi/):** source-linked E20 information and car tools for Indian drivers; available for iPhone.
+- **[Sift for X](https://amitpatnaik.com/products/sift/):** a Safari extension that folds repeated stories on the X Home timeline.
+- **[Pace](https://github.com/iamitp/pace):** a macOS usage meter for Codex. See the [published releases](https://github.com/iamitp/pace/releases) for the downloadable version.
+- **[MustEatList](https://musteatlist.com):** places to eat, organised by dish and city.
 
-- [amitpatnaik.com](https://amitpatnaik.com) - portfolio of AI systems, public intelligence tools, explainers, and case studies.
-- [Sanjaya](https://sanjaya.amitpatnaik.com) - Indian oil and gas intelligence surface for fuel prices, Brent/FX drivers, infrastructure, companies, and crude prediction.
-- [Sanket](https://amitpatnaik.com/products/sanket/) - passive cyber posture and public-source risk checks for oil and gas digital infrastructure.
-- [Peeku Presence Coach](https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12) / [Peeku for Mac](https://peeku.app/) - private Mac presence app for eye breaks, walk reminders, and local presence signals; the full walk-away lock ships outside the App Store because of sandbox limits.
-- Codex/Claude operating model - a practical multi-model workflow for planning, implementation, review, verification, and shipping.
+The apps are personal projects, independent of my employment. [All projects and case studies](https://amitpatnaik.com/products/) include availability and limitations.
 
-## Current Interests
+## Elsewhere
 
-- AI adoption inside large Indian institutions, PSUs, government-adjacent organisations, and regulated sectors.
-- Executive decision surfaces for energy, infrastructure, finance, cyber risk, and public operations.
-- Agentic workflows that divide architecture, implementation, research, review, and memory across the right tools.
-
-## Links
-
-- Portfolio: [amitpatnaik.com](https://amitpatnaik.com)
-- LinkedIn: [linkedin.com/in/iamitp](https://www.linkedin.com/in/iamitp/)
+- [Background](https://amitpatnaik.com/about/)
+- [Writing](https://amitpatnaik.com/writing/)
+- [LinkedIn](https://www.linkedin.com/in/iamitp/)
