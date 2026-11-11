@@ -6,7 +6,7 @@ My background spans petroleum-sector communications, human resources and governm
 
 ## Independent software
 
-- **[Peeku](https://amitpatnaik.com/products/peeku/):** desk-break reminders and optional locking for Mac and Windows; features differ by platform.
+- **[Peeku](https://github.com/iamitp/peeku-releases):** desk-break reminders and optional locking for Mac and Windows; features differ by platform.
 - **[FuelSaathi](https://amitpatnaik.com/products/fuelsaathi/):** source-linked E20 information and car tools for Indian drivers; available for iPhone.
 - **[Sift for X](https://amitpatnaik.com/products/sift/):** a Safari extension that folds repeated stories on the X Home timeline.
 - **[Pace](https://github.com/iamitp/pace):** a macOS usage meter for Codex. See the [published releases](https://github.com/iamitp/pace/releases) for the downloadable version.
